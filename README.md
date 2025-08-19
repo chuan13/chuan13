@@ -1,4 +1,7 @@
-## Hi there 👋
+喜歡學習實用的知識；遇到不便就想改善，於是學了寫程式。
+
+- [個人主頁](https://chuan.dev)
+- [部落格](https://blog.chuan.dev)
 
 <!--
 **chuan13/chuan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
